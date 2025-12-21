@@ -621,7 +621,8 @@ MLP:
 
 </details>
 
-# 🧠 D. Latent Embedding Space (128-Dimensional)
+<details>
+<summary><h1>🧠 D. Latent Embedding Space (128-Dimensional)</h1></summary>
 
 ## 1️⃣ Latent Embedding Space আসলে কী?
 
@@ -846,11 +847,14 @@ Reviewers love this 😉
 
 ---
 
+</details>
+
 ঠিক আছে, চল এই **Contrastive Learning** অংশটা step-by-step, beginner-friendly, কিন্তু research-gradeভাবে বিশ্লেষণ করি।
 
 ---
 
-# 🔄 Contrastive Learning (কন্ট্রাস্টিভ লার্নিং)
+<details>
+<summary><h1>🔄 Contrastive Learning (কন্ট্রাস্টিভ লার্নিং)</h1></summary>
 
 ## 1️⃣ মূল ধারণা
 
@@ -997,6 +1001,8 @@ New patient z_new → check nearest cluster → prediction + confidence
 * Medical benefit → PD subtypes, patient variability, confidence estimation
 
 ---
+
+</details>
 
 <details>
 <summary><h1>🎯 Classification Head (128 → 64 → 2)</h1></summary>
