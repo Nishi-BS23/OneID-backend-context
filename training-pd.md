@@ -5,7 +5,8 @@
 
 ---
 
-# 🔵 B. Feature Normalization (Z-score) — Deep Explanation
+<details>
+<summary><h1>🔵 B. Feature Normalization (Z-score) — Deep Explanation</h1></summary>
 
 ## 1️⃣ Feature Normalization আসলে কী?
 
@@ -284,7 +285,10 @@ And PD detection is literally:
 
 ---
 
-# 🧠 C. Representation Encoder (MLP 24 → 128 → 256 → 128)
+</details>
+
+<details>
+<summary><h1>🧠 C. Representation Encoder (MLP 24 → 128 → 256 → 128)</h1></summary>
 
 ## 1️⃣ Representation Encoder আসলে কী?
 
@@ -614,6 +618,8 @@ MLP:
 আমি একদম **beginner-friendly কিন্তু research-grade**ভাবে ভেঙে বলছি।
 
 ---
+
+</details>
 
 # 🧠 D. Latent Embedding Space (128-Dimensional)
 
